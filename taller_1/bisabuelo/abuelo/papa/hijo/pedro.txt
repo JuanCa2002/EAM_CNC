@@ -1,0 +1,5 @@
+Nombre: Pedro
+Apellido: Velez
+Correo: pedro@gmail.com
+RH: A+
+CM:1,75 cm
