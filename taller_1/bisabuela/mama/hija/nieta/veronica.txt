@@ -1,0 +1,5 @@
+Nombre: Veronica
+Apellido: Salazar
+Correo: veronica@hotmail.com
+RH: A+
+CM: 1.65 mts

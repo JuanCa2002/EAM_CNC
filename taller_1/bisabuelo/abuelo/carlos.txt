@@ -1,0 +1,5 @@
+Nombre: Carlos
+Apellido: Germano
+Correo: carlos@gmail.com
+RH: A+
+CM: 1.80 mts

@@ -1,0 +1,5 @@
+Nombre:Jeronimo
+Apellido: Sanchez
+Correo: jeronimo@hotmail.com
+RH:A+
+CM: 1.70 mt

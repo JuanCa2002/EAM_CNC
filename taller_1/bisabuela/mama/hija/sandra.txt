@@ -1,0 +1,5 @@
+Nombre: Sandra
+Apellido: Salazar
+Correo: sandra@gmail.com
+RH: O+
+CM: 1.75 mts

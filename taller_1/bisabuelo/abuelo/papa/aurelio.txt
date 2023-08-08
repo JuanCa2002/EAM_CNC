@@ -1,0 +1,5 @@
+Nombre: Aurelio
+Apellido: Gutierrez
+Correo: aurelio@gmail.com
+RH: B+
+CM: 1.82 mts
