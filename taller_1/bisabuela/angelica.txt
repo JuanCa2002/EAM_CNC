@@ -1,0 +1,6 @@
+
+Nombre:Angelica
+Apellido:Salazar
+Correo: angelica@hotmail.com
+RH:AB+
+CM:1.65 mt
